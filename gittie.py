@@ -1,7 +1,5 @@
 def introduction():
-<<<<<<< HEAD
     print("Hello, person!")
-=======
     print("Hello, persson")
 
 
@@ -11,4 +9,6 @@ print("w nocy! Ha ha")
 
 def add(x, y):
     return a + b
->>>>>>> e8453da2eae537aeb680f516a0ebe1641185fcd0
+
+def shout():
+    print("HEY GUYS!")
