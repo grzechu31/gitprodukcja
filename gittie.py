@@ -12,3 +12,6 @@ def add(x, y):
 
 def shout():
     print("HEY GUYS!")
+
+def kupa():
+    return True
